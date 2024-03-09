@@ -1,0 +1,87 @@
+******************************************************
+Number of employees working as MANAGER are: 2
+******************************************************
+
+
+1. Manager Details:
+Store Details: polban
+Employee Name: fredy
+Base Pay: $20.0
+Number of Hours worked: 10.0hrs
+Payment Rate per hour: $15.0/hr
+Total Sales in store: $50.0
+Sales done: $11.0
+
+Address : pasir kaliki
+Hourly rate: 15
+Percentage of sales done: 22.00%
+Gross Payment: $171.7
+Total Allowance : $200.0
+Remaining store revenue: $-127.41299999999998
+Is fredy eligible for promotion? 
+No, he needs to work harder
+
+
+
+
+
+2. Manager Details:
+Store Details: bandung
+Employee Name: fredd 
+Base Pay: $40.0
+Number of Hours worked: 50.0hrs
+Payment Rate per hour: $65.0/hr
+Total Sales in store: $80.0
+Sales done: $50.0
+
+Address : pasir kaliki
+Hourly rate: 65
+Percentage of sales done: 62.50%
+Gross Payment: $3322.9
+Total Allowance : $200.0
+Remaining store revenue: $-3221.5589999999997
+Is fredd  eligible for promotion? 
+No, he needs to work harder
+
+
+
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: gerhil
+Employee Name: fred 
+Base Pay: $10.0
+Number of Hours worked: 20.0hrs
+Payment Rate per hour: $15.0/hr
+Sales Rate: 80.0%
+
+Address : pasir kaliki
+Hourly Rate: 15
+Total commission: $1.0
+Gross Payment: $311.0
+Total Allowance : $50.0
+Is fred  eligible for promotion? 
+No, he/she needs to work harder
+
+
+
+******************************************************
+Number of employees working as SALES REPRESENTATIVE are: 1
+******************************************************
+Store Details: jtk
+Employee Name: kurniadi
+Base Pay: $15.0
+Number of Hours worked: 10.0hrs
+Payment Rate per hour: $21.0/hr
+Name of product : Kopsu
+Total products: 15.0
+
+Address : jalan
+Empoyee Name: kurniadi
+Total Payment: $360.0
+Total Allowance : $120.0
+Is kurniadi eligible for promotion? 
+No, he/she needs to work harder
+
+
+
